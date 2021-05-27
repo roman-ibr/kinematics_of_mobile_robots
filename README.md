@@ -16,4 +16,4 @@ The robots used in the simulation environment are shown below:
 ![](https://drive.google.com/uc?export=view&id=1WpvDvbCXVaQ7Iq5ALeAzWju-S2miyYBS)  |  ![](https://drive.google.com/uc?export=view&id=1cgeUb52V4v0G1qAKEMtTXf14w8f5Xtn3)|
 
 
-[GitHub](http://yandex.ru)
+More information about theoretical contents can be found in the course of [Autonomous Mobile Robots](https://asl.ethz.ch/education/lectures/autonomous_mobile_robots/spring-2021.html) by the Autonomous Systems Lab of ETH Zürich. 
