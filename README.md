@@ -1,9 +1,9 @@
 # Kinematics of Mobile Robots
 
 Translation and rotation and their applications on the motion of wheeled robots are shown in the simulated robot environment: 
-*Rigid-Body Motions
-*Kinematics for Non-Holonomic Robots
-*Kinematics for Holonomic Robots
+* Rigid-Body Motions
+* Kinematics for Non-Holonomic Robots
+* Kinematics for Holonomic Robots
 * Kinematic Control
 A project of autonomous floor cleaning with TurtleBot robot shows applications of all above-mentioned topics. 
 
