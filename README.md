@@ -13,8 +13,6 @@ A project of autonomous floor cleaning with TurtleBot robot shows applications o
 
 
 
- __Husky__             |   __BB8__
+ __TurtleBot__             |   __Neobotix MPO-500__
 :-------------------------:|:-------------------------:
-![](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)  |  ![](https://drive.google.com/uc?export=view&id=1d7HkH70BLgri-2KHplJe9obEkYuqOnFp)|
- __WAM__             |   __Sphero__
-![](https://drive.google.com/uc?export=view&id=1a8cN2BHxHZne_RTZE-b4zr4zoTeQuhcH)  |  ![](https://drive.google.com/uc?export=view&id=11LdRd8yGUYBdr4rGKcRB4yNka50hIsqw)|
+![](https://drive.google.com/uc?export=view&id=1WpvDvbCXVaQ7Iq5ALeAzWju-S2miyYBS)  |  ![](https://drive.google.com/uc?export=view&id=1cgeUb52V4v0G1qAKEMtTXf14w8f5Xtn3)|
