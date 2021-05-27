@@ -14,3 +14,7 @@ The robots used in the simulation environment are shown below:
  __TurtleBot__             |   __Neobotix MPO-500__
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1WpvDvbCXVaQ7Iq5ALeAzWju-S2miyYBS)  |  ![](https://drive.google.com/uc?export=view&id=1cgeUb52V4v0G1qAKEMtTXf14w8f5Xtn3)|
+
+
+
+[GitHub](http://yandex.ru)
