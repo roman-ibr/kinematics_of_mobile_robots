@@ -7,9 +7,7 @@ Translation and rotation and their applications on the motion of wheeled robots 
 * Kinematic Control
 
 A project of autonomous floor cleaning with TurtleBot robot shows applications of all above-mentioned topics. 
-
-## TurtleBot 
-![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1WkIG7bz7hdOl1POaJ8P30OExIrhvJW-x)
+The robots used in the simulation environment are shown below:
 
 
 
